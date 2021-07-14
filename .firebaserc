@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "libros-84336": {
+      "hosting": {
+        "prueba-libros": [
+          "libros-84336"
+        ]
+      }
+    }
+  }
+}
